@@ -1,2 +1,2 @@
-# react-rende-practice
+# React-rendering-practice
 Created with CodeSandbox
